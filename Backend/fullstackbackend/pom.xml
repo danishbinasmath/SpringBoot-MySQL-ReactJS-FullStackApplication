@@ -12,7 +12,7 @@
 	<artifactId>fullstackbackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>fullstackbackend</name>
-	<description>Backend Application with Spring Boot.</description>
+	<description>For backend using spring boot and MySQL</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
